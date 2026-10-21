@@ -1,8 +1,8 @@
 {
- "kod": 2,
- "nazwa": "1.0.2",
- "plik": "WodKanMistrz-2.apk",
- "sha256": "758cb335844fcff95b9f065254c5bf3b73c852dc6871a96b31fdac76b365a166",
- "rozmiar": 36795687,
- "opis": "Poprawki po pierwszych testach: formularze, opisy pomp, kolejność historii."
+ "kod": 3,
+ "nazwa": "1.0.3",
+ "plik": "WodKanMistrz-3.apk",
+ "sha256": "5a6bb509338a7083b8ef88c4f1356579849c1e4bee5a12b2d8db5018306a5c10",
+ "rozmiar": 36799783,
+ "opis": "Kopie automatyczne co dobę i szyfrowana kopia z hasłem."
 }
