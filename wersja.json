@@ -1,8 +1,8 @@
 {
- "kod": 1,
- "nazwa": "1.0.1",
- "plik": "WodKanMistrz-1.apk",
- "sha256": "15cba43bca7b3c65f456dcc0d5e8ab132a5549deb26cbcafb18a8b9537eccc1c",
+ "kod": 2,
+ "nazwa": "1.0.2",
+ "plik": "WodKanMistrz-2.apk",
+ "sha256": "758cb335844fcff95b9f065254c5bf3b73c852dc6871a96b31fdac76b365a166",
  "rozmiar": 36795687,
- "opis": "Pierwsza wersja dla mistrza."
+ "opis": "Poprawki po pierwszych testach: formularze, opisy pomp, kolejność historii."
 }
