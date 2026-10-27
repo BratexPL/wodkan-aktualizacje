@@ -1,8 +1,8 @@
 {
- "kod": 4,
- "nazwa": "1.0.4",
- "plik": "WodKanMistrz-4.apk",
- "sha256": "b1eacf0ffa442124158bc807b80a29a7eb485e9b6b3d5f60c4ba57ccd4ca346b",
- "rozmiar": 36799783,
- "opis": "Poprawki w obsludze: czytelniejsze daty, bezpieczniejsze przywracanie kopii, wybor rodzaju obiektu."
+ "kod": 5,
+ "nazwa": "1.0.5",
+ "plik": "WodKanMistrz-5.apk",
+ "sha256": "5c1314018a5dedfc20b1a2ec7aa9e71dc2f7a89977e8f4743a74d91c0f5baedf",
+ "rozmiar": 36803879,
+ "opis": "Nowy przycisk Zapisz wykonana robote na ekranie glownym. Rzadsze akcje pompy schowane pod Wiecej."
 }
